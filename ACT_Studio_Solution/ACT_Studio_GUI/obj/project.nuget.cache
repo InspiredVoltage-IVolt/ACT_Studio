@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "KH8BjtP6GAYZKvqZVpQzn0lm3+pusEXzNZ9hxpyWSakwbiE1sK9jeb/G/c3ynThoiWXR3k3b7mtLi1eAxbG2vQ==",
+  "success": true,
+  "projectFilePath": "D:\\IVolt_Development\\ACT_Studio\\ACT_Studio_Solution\\ACT_Studio_GUI\\ACT_Studio_GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MarkAlicz\\.nuget\\packages\\guna.charts.winforms\\1.0.3\\guna.charts.winforms.1.0.3.nupkg.sha512",
+    "C:\\Users\\MarkAlicz\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.2\\guna.ui2.winforms.2.0.3.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Guna.Charts.WinForms 1.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Guna.Charts.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Guna.UI2.WinForms 2.0.3.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Guna.UI2.WinForms",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
